@@ -1,0 +1,55 @@
+.card{border-width: 8pt;
+	margin-top: 4pt;
+}
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title{
+  color: brown;
+  font-weight: 300;
+}
+
+.navbar-brand{font-color: white;
+}
+
+img{clip-path: circle(50% at center);
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #131C5C;
+  border-color: #131C5C;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #131C5C;
+  border-color: #131C5C;
+}
+
+#indexpage{
+	background-image: url('img/20180328_103316.jpg') center center;
+}
+
+.indexpt{color: white;
+}
+
+.jumbotron{border-radius: 0pt;
+}
